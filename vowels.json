@@ -1,0 +1,281 @@
+[{
+  "name": "Close front unrounded vowel",
+  "height": "close",
+  "backness": "front",
+  "roundness": "unrounded",
+  "ipaNumber": 301,
+  "ipaText": "i",
+  "entity": "&#105;",
+  "x-sampa": "i",
+  "kirshenbaum": "i"
+}, {
+  "name": "Close front rounded vowel",
+  "height": "close",
+  "backness": "front",
+  "roundness": "rounded",
+  "ipaNumber": 309,
+  "ipaText": "y",
+  "entity": "&#121;",
+  "x-sampa": "y",
+  "kirshenbaum": "y"
+}, {
+  "name": "Close central unrounded vowel",
+  "height": "close",
+  "backness": "central",
+  "roundness": "unrounded",
+  "ipaNumber": 317,
+  "ipaText": "ɨ",
+  "entity": "&#616;",
+  "x-sampa": "1",
+  "kirshenbaum": "i"
+}, {
+  "name": "Close central rounded vowel",
+  "height": "close",
+  "backness": "central",
+  "roundness": "rounded",
+  "ipaNumber": 318,
+  "ipaText": "ʉ",
+  "entity": "&#649;",
+  "x-sampa": "}",
+  "kirshenbaum": "u"
+}, {
+  "name": "Close back unrounded vowel",
+  "height": "close",
+  "backness": "back",
+  "roundness": "unrounded",
+  "ipaNumber": 316,
+  "ipaText": "ɯ",
+  "entity": "&#623;",
+  "x-sampa": "M",
+  "kirshenbaum": "u-"
+}, {
+  "name": "Close back rounded vowel",
+  "height": "close",
+  "backness": "back",
+  "roundness": "rounded",
+  "ipaNumber": 308,
+  "ipaText": "u",
+  "entity": "&#117;",
+  "x-sampa": "u",
+  "kirshenbaum": "u"
+}, {
+  "name": "Near-close near-front unrounded vowel",
+  "height": "near-close",
+  "backness": "near-front",
+  "roundness": "unrounded",
+  "ipaNumber": 319,
+  "ipaText": "ɪ",
+  "entity": "&#618;",
+  "x-sampa": "I",
+  "kirshenbaum": "I"
+}, {
+  "name": "Near-close near-front rounded vowel",
+  "height": "near-close",
+  "backness": "near-front",
+  "roundness": "rounded",
+  "ipaNumber": 320,
+  "ipaText": "ʏ",
+  "entity": "&#655;",
+  "x-sampa": "Y",
+  "kirshenbaum": "I."
+}, {
+  "name": "Near-close near-back rounded vowel",
+  "height": "near-close",
+  "backness": "near-back",
+  "roundness": "rounded",
+  "ipaNumber": 321,
+  "ipaText": "ʊ",
+  "entity": "&#650;",
+  "x-sampa": "U",
+  "kirshenbaum": "U"
+}, {
+  "name": "Close-mid front unrounded vowel",
+  "height": "close-mid",
+  "backness": "front",
+  "roundness": "unrounded",
+  "ipaNumber": 302,
+  "ipaText": "e",
+  "entity": "&#101;",
+  "x-sampa": "e",
+  "kirshenbaum": "e"
+}, {
+  "name": "Close-mid front rounded vowel",
+  "height": "close-mid",
+  "backness": "front",
+  "roundness": "rounded",
+  "ipaNumber": 310,
+  "ipaText": "ø",
+  "entity": "&#248;",
+  "x-sampa": "2",
+  "kirshenbaum": "Y"
+}, {
+  "name": "Close-mid central unrounded vowel",
+  "height": "close-mid",
+  "backness": "central",
+  "roundness": "unrounded",
+  "ipaNumber": 397,
+  "ipaText": "ɘ",
+  "entity": "&#600;",
+  "x-sampa": "@\\",
+  "kirshenbaum": "@<umd>"
+}, {
+  "name": "Close-mid central rounded vowel",
+  "height": "close-mid",
+  "backness": "central",
+  "roundness": "rounded",
+  "ipaNumber": 323,
+  "ipaText": "ɵ",
+  "entity": "&#629;",
+  "x-sampa": "8",
+  "kirshenbaum": "@.<umd>"
+}, {
+  "name": "Close-mid back unrounded vowel",
+  "height": "close-mid",
+  "backness": "back",
+  "roundness": "unrounded",
+  "ipaNumber": 315,
+  "ipaText": "ɤ",
+  "entity": "&#612;",
+  "x-sampa": "7",
+  "kirshenbaum": "o-"
+}, {
+  "name": "Close-mid back rounded vowel",
+  "height": "close-mid",
+  "backness": "back",
+  "roundness": "rounded",
+  "ipaNumber": 307,
+  "ipaText": "o",
+  "entity": "&#111;",
+  "x-sampa": "o",
+  "kirshenbaum": "o"
+}, {
+  "name": "Mid central vowel",
+  "height": "mid",
+  "backness": "central",
+  "roundness": "unrounded",
+  "ipaNumber": 322,
+  "ipaText": "ə",
+  "entity": "&#601;",
+  "x-sampa": "@",
+  "kirshenbaum""": @
+}, {
+  "name": "Open-mid front unrounded vowel",
+  "height": "open-mid",
+  "backness": "front",
+  "roundness": "unrounded",
+  "ipaNumber": 303,
+  "ipaText": "ɛ",
+  "entity": "&#603;",
+  "x-sampa": "E",
+  "kirshenbaum": "E"
+}, {
+  "name": "Open-mid front rounded vowel",
+  "height": "open-mid",
+  "backness": "front",
+  "roundness": "rounded",
+  "ipaNumber": 311,
+  "ipaText": "œ",
+  "entity": "&#339;",
+  "x-sampa": "9",
+  "kirshenbaum": "W"
+}, {
+  "name": "Open-mid central unrounded vowel",
+  "height": "open-mid",
+  "backness": "central",
+  "roundness": "unrounded",
+  "ipaNumber": 326,
+  "ipaText": "ɜ",
+  "entity": "&#604;",
+  "x-sampa": "3",
+  "kirshenbaum": "V"
+}, {
+  "name": "Open-mid central rounded vowel",
+  "height": "open-mid",
+  "backness": "central",
+  "roundness": "rounded",
+  "ipaNumber": 395,
+  "ipaText": "ɞ",
+  "entity": "&#606;",
+  "x-sampa": "3\\",
+  "kirshenbaum": "O"
+}, {
+  "name": "Open-mid back unrounded vowel",
+  "height": "open-mid",
+  "backness": "back",
+  "roundness": "unrounded",
+  "ipaNumber": 314,
+  "ipaText": "ʌ",
+  "entity": "&#652;",
+  "x-sampa": "V",
+  "kirshenbaum": "V"
+}, {
+  "name": "Open-mid back rounded vowel",
+  "height": "open-mid",
+  "backness": "back",
+  "roundness": "rounded",
+  "ipaNumber": 306,
+  "ipaText": "ɔ",
+  "entity": "&#596;",
+  "x-sampa": "O",
+  "kirshenbaum": "O"
+}, {
+  "name": "Near-open front unrounded vowel",
+  "height": "near-open",
+  "backness": "front",
+  "roundness": "unrounded",
+  "ipaNumber": 325,
+  "ipaText": "æ",
+  "entity": "&#230;",
+  "x-sampa": "",
+  "kirshenbaum": "&"
+}, {
+  "name": "Near-open central vowel",
+  "height": "near-open",
+  "backness": "central",
+  "roundness": "vowel",
+  "ipaNumber": 324,
+  "ipaText": "ɐ",
+  "entity": "&#592;",
+  "x-sampa": "6",
+  "kirshenbaum": "&"
+}, {
+  "name": "Open front unrounded vowel",
+  "height": "open",
+  "backness": "front",
+  "roundness": "unrounded",
+  "ipaNumber": 304,
+  "ipaText": "a",
+  "entity": "&#97;",
+  "x-sampa": "a",
+  "kirshenbaum": "a"
+}, {
+  "name": "Open front rounded vowel",
+  "height": "open",
+  "backness": "front",
+  "roundness": "rounded",
+  "ipaNumber": 312,
+  "ipaText": "ɶ",
+  "entity": "&#630;",
+  "x-sampa": "&",
+  "kirshenbaum": "a."
+}, {
+  "name": "Open back unrounded vowel",
+  "height": "open",
+  "backness": "back",
+  "roundness": "unrounded",
+  "ipaNumber": 305,
+  "ipaText": "ɑ",
+  "entity": "&#593;",
+  "x-sampa": "A",
+  "kirshenbaum": "A"
+}, {
+  "name": "Open back rounded vowel",
+  "height": "open",
+  "backness": "back",
+  "roundness": "rounded",
+  "ipaNumber": 313,
+  "ipaText": "ɒ",
+  "entity": "&#594;",
+  "x-sampa": "Q",
+  "kirshenbaum": "A."
+}]
